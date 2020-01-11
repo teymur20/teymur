@@ -1,0 +1,16 @@
+#myBtn{
+    display: none;
+    position: fixed;
+    background-color: red;
+    right: 20px;
+    bottom: 30px;
+}
+.header{
+    background-color: red;
+    width: 100%;
+    height: 70px;
+    position: fixed;
+}
+.active{
+    background-color: black;
+}
